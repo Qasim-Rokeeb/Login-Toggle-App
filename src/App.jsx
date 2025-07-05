@@ -1,12 +1,9 @@
-import React from 'react'
-import Navbar from './components/Navbar'
+import LoginToggle from "./components/LoginToggle";
 
-const App = () => {
+export default function App() {
   return (
-    <>
-    <Navbar />
-    </>
-  )
+    <div className="h-screen flex items-center justify-center bg-gray-100">
+      <LoginToggle />
+    </div>
+  );
 }
-
-export default App
