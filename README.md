@@ -25,6 +25,8 @@ This is Day 3 of my 30-Day React Relearning Journey. The focus of this project i
 - React (JavaScript)
 - Vite
 - Tailwind CSS
+- Github
+- Vscode
 
 ---
 
